@@ -28,3 +28,11 @@ Store and retrieve data by using F#
 Projects:
 - [Cards](/src/Cards)
 - [Loops](/src/Loops)
+
+Create and architect with functions in F#
+------
+[https://docs.microsoft.com/en-us/learn/modules/fsharp-functions/](https://docs.microsoft.com/en-us/learn/modules/fsharp-functions/)
+
+Projects:
+- [Functions](/src/Functions)
+- [Cards2](/src/Cards2)
